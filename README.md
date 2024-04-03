@@ -35,3 +35,5 @@ node ./index.js
 
 The app will start listening in port `5000`
 
+Once the app is running, you can access it in [http://localhost:5000](http://localhost:5000)
+
